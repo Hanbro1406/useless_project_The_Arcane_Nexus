@@ -68,9 +68,9 @@ Screenshot4 (https://drive.google.com/file/d/1viS24oNeT6DZvELeVeHFtNxUG7W3q1Np/v
 # Additional Demos
 
 ## Team Contributions
-- [Hansel T Jaison]: [idea pitching abt time travel concept and predestination paradox, storyline, designing, coding, debugging]
-- [Edna Mary]: [idea pitching abt games]
-- [Theres Manuela]: [idea pitching abt game]
+- Hansel T Jaison: idea pitching abt time travel concept and predestination paradox, storyline, designing, coding, debugging
+- Edna Mary: idea pitching abt games
+- Theres Manuela: idea pitching abt game
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
