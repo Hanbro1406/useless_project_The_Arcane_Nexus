@@ -1,5 +1,5 @@
 #video proof
-https://drive.google.com/file/d/1GNMArW9dVMJWFfHD9TAvSEH1if4eKSSc/view
+[Watch the video]([https://example.com/path-to-your-video.mp4](https://drive.google.com/file/d/1GNMArW9dVMJWFfHD9TAvSEH1if4eKSSc/view))
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Sandsyra: The Origin (a visual novel)] 🎯
